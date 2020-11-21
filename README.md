@@ -16,7 +16,7 @@ The goal of the project is to create one R script called run_analysis.R that doe
 
 
 ## Files
-'CodeBook.md' contains information on the variables, data set, transformations and work that was done to tidy up the data
+'CodeBook.md' - contains information on the variables, data set, transformations and work that was done to cleand and tidy the data
 
 'run_analysis.R'- is the code for the R script for the project
 
