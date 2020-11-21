@@ -1,5 +1,4 @@
 # Getting-and-Cleaning-Data-Course-Project
-Getting and Cleaning Data Course Project Final Project
 
 This repository contains the R script and documentation for the Coursera Data Science Track course Getting & Cleaning Data needed to complete the assignment during Week 4 of the course.
 
