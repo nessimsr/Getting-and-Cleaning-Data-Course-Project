@@ -20,4 +20,4 @@ The goal of the project is to create one R script called run_analysis.R that doe
 
 'run_analysis.R'- is the code for the R script for the project
 
-'TidyData.txt' - is the output from the 'runAnalysis.R'
+'FinalData.txt' - is the output from the 'runAnalysis.R'
