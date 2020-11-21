@@ -1,9 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 Getting and Cleaning Data Course Project Final Project
 
-output: html_document
----
-
 ## R Markdown
 
 # Getting and Cleaning Data Project
